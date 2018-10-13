@@ -26,21 +26,21 @@
 		["Introducción a la Matemática Avanzada", "MAT-125",4,"ICMATB",["MAT-022"]],
 		["Probabilidades y Estadistíca", "MAT-041", 4, "CI", ["MAT-023"]],
 		["Matemáticas IV", "MAT-024", 4, "PC", ["MAT-023"]],
-		["Física General III", "FIS-130", 4, "PC", ["MAT-023", "FIS-120"]],
+		["Física General III", "FIS-130", 4, "PC", ["MAT-023", "FIS-110"]],
 		["Inglés 3", "HCW-102", 2, "ENG", ["HCW-101"]]
 	],
 	"s5": [
 		["Análisis I","MAT-225",4,"ICMATB" ,["MAT-125","MAT-023"]],
 		["Estructuras Algebraicas","MAT-214",4,"ICMATB",["MAT-210"]],
-		["Física General IV", "FIS-140", 4, "PC", ["MAT-022", "FIS-110"]],
-		["Análisis Numérico I", "MAT-270", 4, "CI", ["MAT-024", "IWI-131"]],
+		["Física General IV", "FIS-140", 4, "PC", ["MAT-022", "FIS-120", "FIS-130"]],
+		["Análisis Numérico I", "MAT-270", 4, "CI", ["MAT-024"]],
 		["Inglés 4", "HCW-103", 2, "ENG", ["HCW-102"]]
 	],
 	"s6": [
 		["Análisis II", "MAT-226", 4, "ICMATB", ["MAT-225"]],
 		["Variable Compleja", "MAT-235", 4, "ICMATB", ["MAT-024"]],
-		["EDO", "MAT-243", 4, "ICMATA", ["MAT-210", "MAT-125"]],
-		["Laboratorio de Modelación", "MAT-282", 3, "IAA", ["MAT-270","ELO-320","MAT-041"]],
+		["EDO", "MAT-243", 4, "ICMATA", ["MAT-210", "MAT-125", "MAT-023"]],
+		["Laboratorio de Modelación", "MAT-282", 3, "IAA", ["MAT-270","ELO-320","MAT-041", "HCW-101"]],
 		["Fund. Investigaciones Operaciones", "ILI-281", 3, "CI", ["MAT-041"]]
 	],
 	"s7": [
