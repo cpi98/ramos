@@ -26,13 +26,13 @@
 		["Introducción a la Matemática Avanzada", "MAT-125",4,"ICMATB",["MAT-022"]],
 		["Probabilidades y Estadistíca", "MAT-041", 4, "CI", ["MAT-023"]],
 		["Matemáticas IV", "MAT-024", 4, "PC", ["MAT-023"]],
-		["Física General III", "FIS-130", 4, "PC", ["MAT-023", "FIS-120"]],
+		["Física General III", "FIS-130", 4, "PC", ["MAT-023", "FIS-110"]],
 		["Inglés 3", "HCW-102", 2, "ENG", ["HCW-101"]]
 	],
 	"s5": [
 		["Análisis I","MAT-225",4,"ICMATB" ,["MAT-125","MAT-023"]],
 		["Estructuras Algebraicas","MAT-214",4,"ICMATB",["MAT-210"]],
-		["Física General IV", "FIS-140", 4, "PC", ["MAT-022", "FIS-110"]],
+		["Física General IV", "FIS-140", 4, "PC", ["MAT-022", "FIS-120","FIS-130"]],
 		["Análisis Numérico I", "MAT-270", 4, "CI", ["MAT-024", "IWI-131"]],
 		["Inglés 4", "HCW-103", 2, "ENG", ["HCW-102"]]
 	],
